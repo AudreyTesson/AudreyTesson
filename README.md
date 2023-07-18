@@ -1,6 +1,13 @@
+[![ProfileBanner](https://www.canva.com/design/DAFo-u8wDaE/view)
+
+<p align="left">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bonjour,;Je+suis+une+Développeuse+FullStack,;Backend,+PHP,+spécialisée+Symfony;Passionnée+et+j'adore+les+challenges"></a>
+</p>
+
 # 💫 About Me:
 🔭 Je travaille actuellement à la refonte et à l'upgrade d'un projet de 4 développeurs spé Symfony auquel j'ai largement contribué.<br>👯 Je cherche une entreprise avec des projets forts ou ayant un impact positif sur ses clients.<br>🌱 Je me forme actuellement à Python, Docker et React.<br>💬 N'hésitez pas à me contacter via email ou LinkedIn.<br>⚡ J'aime autant le Front que le Back, mais j'avoue être folle de Symfony.
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/audrey-tesson-dev/) 
