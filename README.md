@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/AudreyTesson/AudreyTesson/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AudreyTesson/AudreyTesson/blob/output/github-contribution-grid-snake.gif)
 
 [![ProfileBanner](https://www.canva.com/design/DAFo-u8wDaE/view)
 
