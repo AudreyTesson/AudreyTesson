@@ -1,7 +1,12 @@
-![snake gif](https://github.com/AudreyTesson/AudreyTesson/blob/output/github-contribution-grid-snake-dark.svg)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<p align="left">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bonjour,;Je+suis+une+Développeuse+FullStack,;Backend,+PHP,+spécialisée+Symfony;Passionnée+et+j'adore+les+challenges"></a>
+<p>
+  <h1 align="center"><b>Hi, I'm AudreyTesson <img src=
+"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Je+suis+une+Développeuse+FullStack,;Backend,+PHP,+spécialisée+Symfony;Passionnée+et+j'adore+les+challenges"></a>
 </p>
 
 # 💫 About Me:
