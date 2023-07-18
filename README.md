@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/AudreyTesson/AudreyTesson/blob/output/github-contribution-grid-snake.svg)
+
 [![ProfileBanner](https://www.canva.com/design/DAFo-u8wDaE/view)
 
 <p align="left">
