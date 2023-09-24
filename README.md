@@ -20,7 +20,7 @@
 # 💻 Tech Stack:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,symfony,php,bootstrap,css,discord,docker,github,html,js,linux,md,mysql,python,tailwind,vscode,webpack&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,symfony,php,bootstrap,css,discord,docker,github,js,linux,md,mysql,python,tailwind,vscode,webpack&perline=14" />
   </a>
 
 # 📊 GitHub Stats:
