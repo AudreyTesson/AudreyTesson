@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Je+suis+une+Développeuse+FullStack,;Backend,+PHP,+spécialisée+Symfony;Passionnée+et+aimant+les+challenges"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Développeuse+FullStack,;Backend,+PHP,+spécialisée+Symfony;Passionnée+,+aimant+les+challenges"></a>
 </p>
 
 # 💫 About Me:
